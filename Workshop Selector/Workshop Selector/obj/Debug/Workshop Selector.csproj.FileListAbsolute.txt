@@ -1,0 +1,30 @@
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.AssemblyReference.cache
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Form1.resources
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Properties.Resources.resources
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.GenerateResource.cache
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.CoreCompileInputs.cache
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe.config
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.exe
+E:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.pdb
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe.config
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.AssemblyReference.cache
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Form1.resources
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Properties.Resources.resources
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.GenerateResource.cache
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.CoreCompileInputs.cache
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.exe
+D:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.pdb
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe.config
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.AssemblyReference.cache
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Form1.resources
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Properties.Resources.resources
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.GenerateResource.cache
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.CoreCompileInputs.cache
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.exe
+J:\programming\C sharp programs\assiments\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.pdb

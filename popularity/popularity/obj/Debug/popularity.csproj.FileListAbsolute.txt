@@ -1,0 +1,30 @@
+E:\programming\C sharp programs\assiments\popularity\popularity\bin\Debug\popularity.exe.config
+E:\programming\C sharp programs\assiments\popularity\popularity\bin\Debug\popularity.exe
+E:\programming\C sharp programs\assiments\popularity\popularity\bin\Debug\popularity.pdb
+E:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.csproj.AssemblyReference.cache
+E:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.Properties.Resources.resources
+E:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.csproj.GenerateResource.cache
+E:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.csproj.CoreCompileInputs.cache
+E:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.exe
+E:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.pdb
+E:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.popularityForm.resources
+D:\programming\C sharp programs\assiments\popularity\popularity\bin\Debug\popularity.exe.config
+D:\programming\C sharp programs\assiments\popularity\popularity\bin\Debug\popularity.exe
+D:\programming\C sharp programs\assiments\popularity\popularity\bin\Debug\popularity.pdb
+D:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.csproj.AssemblyReference.cache
+D:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.popularityForm.resources
+D:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.Properties.Resources.resources
+D:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.csproj.GenerateResource.cache
+D:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.csproj.CoreCompileInputs.cache
+D:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.exe
+D:\programming\C sharp programs\assiments\popularity\popularity\obj\Debug\popularity.pdb
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\bin\Debug\popularity.exe.config
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\bin\Debug\popularity.exe
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\bin\Debug\popularity.pdb
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\obj\Debug\popularity.csproj.AssemblyReference.cache
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\obj\Debug\popularity.popularityForm.resources
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\obj\Debug\popularity.Properties.Resources.resources
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\obj\Debug\popularity.csproj.GenerateResource.cache
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\obj\Debug\popularity.csproj.CoreCompileInputs.cache
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\obj\Debug\popularity.exe
+E:\programming\C sharp programs\assiments\Projects for college\popularity\popularity\obj\Debug\popularity.pdb

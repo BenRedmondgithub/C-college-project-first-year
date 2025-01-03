@@ -1,0 +1,10 @@
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\bin\Debug\DBS Auto.exe.config
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\bin\Debug\DBS Auto.exe
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\bin\Debug\DBS Auto.pdb
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\obj\Debug\DBS Auto.csproj.AssemblyReference.cache
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\obj\Debug\DBS_Auto.Form1.resources
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\obj\Debug\DBS_Auto.Properties.Resources.resources
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\obj\Debug\DBS Auto.csproj.GenerateResource.cache
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\obj\Debug\DBS Auto.csproj.CoreCompileInputs.cache
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\obj\Debug\DBS Auto.exe
+D:\programming\C sharp programs\assiments\DBS Auto\DBS Auto\obj\Debug\DBS Auto.pdb
